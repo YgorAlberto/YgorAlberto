@@ -6,8 +6,6 @@
 
 - Tenho experiência com as principais ferramentas hacking como: Nmap, Sqlmap, Nessus, Burpsuit, Netcat, Hydra, John, Hashcat, Dirb, Dirbuster, Wfuzz, Linpeas, Winpeas, Immunity Debuger. Mas não apenas conhecimento em ferramentas mas também protocolos de redes, portas, regras de firewall, DHCP, TCP/IP, WAF, IDS, IPS, políticas de segurança. Experiêmcia também com Sistemas Operacionais, Windows e Linux (estações e servidores), nuvem AWS (EC2, S3).
 
-- Sou organizado e proativo, gosto de apresentar e ouvir ideias. Gosto de ambientes descontraídos onde há clareza nos objetivos e interação de toda a equipe. Prefiro trabalhar em equipe mas também consigo me sobressair sozinho. Sou autodidata e procuro sempre estar alinhado com as tecnologias atuais. Estou cada dia mais buscando ser melhor, tanto tecnicamente quanto em soft skills.
-
 - 📫 Meu Linkedin https://linkedin.com/in/ygoralbert
 
 <!---
