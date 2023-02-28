@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YgorAlberto
 
-- Sou Hacker Ético em início de carreira, graduado em Sistemas de Informação na Wyden FACIMP em julho de 2021, Inglês fluente, possuo certificados em vários cursos de segurança e de tecnologia em geral como: Novo Pentest Profissional na Desec, Pentest Experience também na Desec, Introduction to Cybersecurity 2.0 na Cisco, Redes de Computadores no SENAI, Python3 no Curso em Video. Certificação DCPT (em andamento). Inglês fluente.
+- Sou Hacker Ético em início de carreira, graduado em Sistemas de Informação na Wyden FACIMP em julho de 2021, Inglês fluente, possuo Certificação DCPT (Desec Certification Penetration Tester) certificados em vários cursos de segurança e de tecnologia em geral como: Novo Pentest Profissional na Desec, Pentest Experience também na Desec, Introduction to Cybersecurity 2.0 na Cisco, Redes de Computadores no SENAI, Python3 no Curso em Video. Inglês fluente.
 
 - Realizo na empresa palestras sobre LGPD e conscientização sobre Segurança da Informação. Assim como implementação de novos processos e medidas para melhorar a segurança digital das empresas.
 
