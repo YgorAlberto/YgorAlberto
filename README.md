@@ -13,9 +13,13 @@ DCPT | CRTA | CPTE | CSAE | CNSE
 
 🎓 Formação:
 Bacharel em Sistemas de Informação – Wyden FACIMP
+
 Pós-Graduação em Segurança Ofensiva – ACADI-TI
+
 Pentest Profissional & Pentest Experience – Desec
+
 Introduction to Cybersecurity – Cisco
+
 Inglês avançado
 
 Atuo com ética, mentalidade ofensiva e aprendizado contínuo, ajudando empresas a elevar sua maturidade em segurança e resiliência contra ameaças cibernéticas.
