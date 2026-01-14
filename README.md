@@ -1,14 +1,21 @@
-- 👋 Hi, I’m @YgorAlberto
+🔴 Red Team | Offensive Security Analyst | Pentester
 
-- Sou Hacker Ético, graduado em Sistemas de Informação na Wyden FACIMP em julho de 2021, Inglês fluente, possuo Certificação DCPT (Desec Certification Penetration Tester) certificados em vários cursos de segurança e de tecnologia em geral como: Novo Pentest Profissional na Desec, Pentest Experience também na Desec, Introduction to Cybersecurity 2.0 na Cisco, Redes de Computadores no SENAI, Python3 no Curso em Video. Inglês fluente.
+Profissional de Cibersegurança Ofensiva com atuação em Red Team, especializado em identificar, explorar e mitigar vulnerabilidades antes que elas sejam exploradas por atacantes reais. Atualmente atuo na Strati, conduzindo pentests, campanhas de phishing, engenharia social e avaliações contínuas de segurança, fortalecendo ambientes corporativos de forma proativa e estratégica.
 
-- Realizo na empresa palestras sobre LGPD e conscientização sobre Segurança da Informação. Assim como implementação de novos processos e medidas para melhorar a segurança digital das empresas.
+🎯 Especializações:
+Segurança Ofensiva • Pentest em aplicações, redes e infraestrutura • Exploração de vulnerabilidades • Hardening Linux & Windows • Cloud Security (AWS)
 
-- Tenho experiência com as principais ferramentas hacking como: Nmap, Sqlmap, Nessus, Burpsuit, Netcat, Hydra, John, Hashcat, Dirb, Dirbuster, Wfuzz, Linpeas, Winpeas, Immunity Debuger. Mas não apenas conhecimento em ferramentas mas também protocolos de redes, portas, regras de firewall, DHCP, TCP/IP, WAF, IDS, IPS, políticas de segurança. Experiêmcia também com Sistemas Operacionais, Windows e Linux (estações e servidores), nuvem AWS (EC2, S3).
+🛠 Ferramentas:
+Nmap, Burp Suite, Sqlmap, Nessus, Netcat, Hydra, John, Hashcat, Wfuzz, Dirb/Dirbuster, LinPEAS, WinPEAS, Immunity Debugger
 
-- 📫 Meu Linkedin https://linkedin.com/in/ygoralbert
+📜 Certificações:
+DCPT | CRTA | CPTE | CSAE | CNSE
 
-<!---
-YgorAlberto/YgorAlberto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Formação:
+Bacharel em Sistemas de Informação – Wyden FACIMP
+Pós-Graduação em Segurança Ofensiva – ACADI-TI
+Pentest Profissional & Pentest Experience – Desec
+Introduction to Cybersecurity – Cisco
+Inglês avançado
+
+Atuo com ética, mentalidade ofensiva e aprendizado contínuo, ajudando empresas a elevar sua maturidade em segurança e resiliência contra ameaças cibernéticas.
