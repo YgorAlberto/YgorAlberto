@@ -1,6 +1,6 @@
 🔴 Red Team | Offensive Security Analyst | Pentester
 
-Profissional de Cibersegurança Ofensiva com atuação em Red Team, especializado em identificar, explorar e mitigar vulnerabilidades antes que elas sejam exploradas por atacantes reais. Atualmente atuo na Strati, conduzindo pentests, campanhas de phishing, engenharia social e avaliações contínuas de segurança, fortalecendo ambientes corporativos de forma proativa e estratégica.
+Profissional de Cibersegurança Ofensiva com atuação em Red Team, especializado em identificar e explorar vulnerabilidades antes que elas sejam exploradas por atacantes reais. Atualmente atuo na Strati, conduzindo pentests, campanhas de phishing, engenharia social e avaliações contínuas de segurança, fortalecendo ambientes corporativos de forma proativa e estratégica.
 
 🎯 Especializações:
 Segurança Ofensiva • Pentest em aplicações, redes e infraestrutura • Exploração de vulnerabilidades • Hardening Linux & Windows • Cloud Security (AWS)
