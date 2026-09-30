@@ -9,11 +9,11 @@ Segurança Ofensiva • Pentest em aplicações, redes e infraestrutura • Expl
 Nmap, Burp Suite, Sqlmap, Nessus, Netcat, Hydra, John, Hashcat, Wfuzz, Dirb/Dirbuster, LinPEAS, WinPEAS, Immunity Debugger
 
 📜 Certificações:
-DCPT | CRTA | CPTE | CSAE | CNSE
+DCPT | Pentest+ | CRTA | CPTE | CSAE | CNSE
 
 🎓 Formação:
 
-Bacharel em Sistemas de Informação – Wyden FACIMP
+Bacharel em Sistemas de Informação – Wyden
 
 Pós-Graduação em Segurança Ofensiva – ACADI-TI
 
